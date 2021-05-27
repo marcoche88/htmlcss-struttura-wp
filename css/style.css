@@ -21,6 +21,14 @@
     float: left;
 }
 
+.bg-blue {
+    background-color: rgb(50, 136, 249);
+}
+
+.bg-light-blue {
+    background-color: rgb(177, 206, 228);
+}
+
 /* header */
 
 header {
@@ -37,19 +45,13 @@ header {
     margin: 30px 0;
 }
 
-.second-section {
-    height: 500px;
-    background-color: rgb(50, 136, 249);
-    margin: 30px 0 10px 0;
-}
-
-.second-section > div {
-    background-color: rgb(177, 206, 228);
-}
-
-.header-second-section {
+.row-second-section {
     height: 60px;
     margin-bottom: 30px;
+}
+
+.float-section {
+    margin: 30px 0 10px 0;
 }
 
 .small-column {
