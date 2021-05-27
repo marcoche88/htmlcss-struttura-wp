@@ -63,3 +63,11 @@ header {
     width: calc(60% - 60px);
     margin: 0 30px 30px 30px;
 } 
+
+/* footer */
+
+footer {
+    height: 50px;
+    background-color: rgb(122, 47, 245);
+    margin: 10px 0;
+}
