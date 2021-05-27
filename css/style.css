@@ -45,13 +45,17 @@ header {
     margin: 30px 0;
 }
 
+.second-section {
+    margin: 30px 0 10px 0;
+}
+
 .row-second-section {
     height: 60px;
     margin-bottom: 30px;
 }
 
 .float-section {
-    margin: 30px 0 10px 0;
+    margin-top: 30px;
 }
 
 .small-column {
